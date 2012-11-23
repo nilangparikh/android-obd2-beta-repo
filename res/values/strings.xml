@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">iTrack</string>
+    <string name="hello_world">Status: Connected</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">OBD2 GPS Tracker</string>
+    <string name="locations">Connecting...</string>
+
+</resources>
